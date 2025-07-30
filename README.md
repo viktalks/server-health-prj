@@ -56,6 +56,4 @@ If CPU, memory, or disk usage exceeds 80%, an alert is logged in the same file.
 
 ---
 
-## 📜 License
 
-This script is open-sourced under the MIT license.
